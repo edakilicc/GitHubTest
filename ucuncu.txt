@@ -2,3 +2,6 @@
 
 son commit 
 GitHub alıştırması yapmak için.
+
+değişiklik yaptıktan sonra git add . ve 
+git commit -m "...…" 
